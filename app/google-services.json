@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "236195700256",
+    "firebase_url": "https://android-jokenpo.firebaseio.com",
+    "project_id": "android-jokenpo",
+    "storage_bucket": "android-jokenpo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236195700256:android:106f8acfd07e6fc8",
+        "android_client_info": {
+          "package_name": "thiago.jokenpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236195700256-ankcer6alqt6k4naje2e7qjr73uked1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUqxqC8JksIhSiDqOP0OffmVGNbW1T0Co"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
